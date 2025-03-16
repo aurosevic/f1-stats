@@ -1,0 +1,10 @@
+[project]
+name = "f1-stats"
+version = "0.1.0"
+description = "Create stats for the F1 season."
+requires-python = ">=3.13.2"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "requests>=2.32.3",
+    " pandas>=2.2.3"
+]
