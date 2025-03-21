@@ -1,0 +1,25 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,2,Mark WebberWEB,Red Bull Racing Renault,52,1:25:11.288,25
+2,5,Fernando AlonsoALO,Ferrari,52,+3.060s,18
+3,1,Sebastian VettelVET,Red Bull Racing Renault,52,+4.836s,15
+4,6,Felipe MassaMAS,Ferrari,52,+9.519s,12
+5,9,Kimi RäikkönenRAI,Lotus Renault,52,+10.314s,10
+6,10,Romain GrosjeanGRO,Lotus Renault,52,+17.101s,8
+7,7,Michael SchumacherMSC,Mercedes,52,+29.153s,6
+8,4,Lewis HamiltonHAM,McLaren Mercedes,52,+36.463s,4
+9,19,Bruno SennaSEN,Williams Renault,52,+43.347s,2
+10,3,Jenson ButtonBUT,McLaren Mercedes,52,+44.444s,1
+11,14,Kamui KobayashiKOB,Sauber Ferrari,52,+45.370s,0
+12,12,Nico HulkenbergHUL,Force India Mercedes,52,+47.856s,0
+13,16,Daniel RicciardoRIC,STR Ferrari,52,+51.241s,0
+14,17,Jean-Eric VergneVER,STR Ferrari,52,+53.313s,0
+15,8,Nico RosbergROS,Mercedes,52,+57.394s,0
+16,18,Pastor MaldonadoMAL,Williams Renault,51,+1 lap,0
+17,20,Heikki KovalainenKOV,Caterham Renault,51,+1 lap,0
+18,24,Timo GlockGLO,Marussia Cosworth,51,+1 lap,0
+19,25,Charles PicPIC,Marussia Cosworth,51,+1 lap,0
+20,22,Pedro de la RosaDLR,HRT Cosworth,50,+2 laps,0
+21,23,Narain KarthikeyanKAR,HRT Cosworth,50,+2 laps,0
+NC,15,Sergio PerezPER,Sauber Ferrari,11,DNF,0
+NC,11,Paul di RestaDIR,Force India Mercedes,2,DNF,0
+NC,21,Vitaly PetrovPET,Caterham Renault,,DNS,0

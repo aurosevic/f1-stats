@@ -1,0 +1,21 @@
+Pos,No,Driver,Car,Lap,Time,Avg speed
+1,1,Kimi RäikkönenRAI,Ferrari,46,1:21.670,205.191
+2,2,Felipe MassaMAS,Ferrari,45,1:21.801,204.863
+3,22,Lewis HamiltonHAM,McLaren Mercedes,20,1:22.017,204.323
+4,4,Robert KubicaKUB,Sauber BMW,20,1:22.106,204.102
+5,16,Jenson ButtonBUT,Honda,66,1:22.353,203.489
+6,23,Heikki KovalainenKOV,McLaren Mercedes,19,1:22.453,203.243
+7,3,Nick HeidfeldHEI,Sauber BMW,21,1:22.519,203.080
+8,10,Mark WebberWEB,Red Bull Renault,19,1:22.564,202.969
+9,5,Fernando AlonsoALO,Renault,15,1:22.683,202.677
+10,11,Jarno TrulliTRU,Toyota,45,1:22.758,202.494
+11,9,David CoulthardCOU,Red Bull Renault,57,1:22.842,202.288
+12,12,Timo GlockGLO,Toyota,57,1:23.007,201.886
+13,7,Nico RosbergROS,Williams Toyota,20,1:23.319,201.130
+14,21,Giancarlo FisichellaFIS,Force India Ferrari,40,1:23.439,200.841
+15,8,Kazuki NakajimaNAK,Williams Toyota,48,1:23.549,200.576
+16,17,Rubens BarrichelloBAR,Honda,21,1:23.858,199.837
+17,18,Takuma SatoSAT,Super Aguri Honda,34,1:24.617,198.045
+18,6,Nelson PiquetPIQ,Renault,6,1:25.444,196.128
+19,14,Sebastien BourdaisBOU,STR Ferrari,6,1:25.999,194.862
+20,19,Anthony DavidsonDAV,Super Aguri Honda,6,1:26.864,192.922

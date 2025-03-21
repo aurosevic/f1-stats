@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,5,Felipe MassaMAS,Ferrari,65,1:31:36.230,10
+2,2,Lewis HamiltonHAM,McLaren Mercedes,65,+6.790s,8
+3,1,Fernando AlonsoALO,McLaren Mercedes,65,+17.456s,6
+4,10,Robert KubicaKUB,Sauber BMW,65,+31.615s,5
+5,14,David CoulthardCOU,Red Bull Renault,65,+58.331s,4
+6,16,Nico RosbergROS,Williams Toyota,65,+59.538s,3
+7,4,Heikki KovalainenKOV,Renault,65,+62.128s,2
+8,22,Takuma SatoSAT,Super Aguri Honda,64,+1 lap,1
+9,3,Giancarlo FisichellaFIS,Renault,64,+1 lap,0
+10,8,Rubens BarrichelloBAR,Honda,64,+1 lap,0
+11,23,Anthony DavidsonDAV,Super Aguri Honda,64,+1 lap,0
+12,7,Jenson ButtonBUT,Honda,64,+1 lap,0
+13,20,Adrian SutilSUT,Spyker Ferrari,63,+2 laps,0
+14,21,Christijan AlbersALB,Spyker Ferrari,63,+2 laps,0
+NC,9,Nick HeidfeldHEI,Sauber BMW,46,DNF,0
+NC,11,Ralf SchumacherRSC,Toyota,44,DNF,0
+NC,18,Vitantonio LiuzziLIU,STR Ferrari,19,DNF,0
+NC,19,Scott SpeedSPE,STR Ferrari,9,DNF,0
+NC,6,Kimi RäikkönenRAI,Ferrari,9,DNF,0
+NC,12,Jarno TrulliTRU,Toyota,8,DNF,0
+NC,15,Mark WebberWEB,Red Bull Renault,7,DNF,0
+NC,17,Alexander WurzWUR,Williams Toyota,1,DNF,0

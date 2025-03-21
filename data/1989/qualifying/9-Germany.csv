@@ -1,0 +1,40 @@
+Pos,No,Driver,Car,Time
+1,1,Ayrton SennaSEN,McLaren Honda,1:42.300
+1,37,Bertrand GachotGAC,Onyx Ford,1:47.283
+2,36,Stefan JohanssonJOH,Onyx Ford,1:47.700
+2,2,Alain ProstPRO,McLaren Honda,1:43.295
+3,30,Philippe AlliotALL,Lola Lamborghini,1:47.746
+3,27,Nigel MansellMAN,Ferrari,1:44.020
+4,28,Gerhard BergerBER,Ferrari,1:44.467
+4,29,Michele AlboretoALB,Lola Lamborghini,1:47.919
+5,6,Riccardo PatresePAT,Williams Renault,1:44.511
+5,41,Yannick DalmasDAL,AGS Ford,1:47.920
+6,17,Nicola LariniLAR,Osella Ford,1:48.301
+6,5,Thierry BoutsenBOU,Williams Renault,1:44.702
+7,40,Gabriele TarquiniTAR,AGS Ford,1:48.558
+7,19,Alessandro NanniniNAN,Benetton Ford,1:45.033
+8,18,Piercarlo GhinzaniGHI,Osella Ford,1:48.564
+8,11,Nelson PiquetPIQ,Lotus Judd,1:45.475
+9,31,Roberto MorenoMOR,Coloni Ford,1:48.567
+9,20,Emanuele PirroPIR,Benetton Ford,1:45.845
+10,32,Pierre Henri RaphanelRAP,Coloni Ford,1:48.780
+10,4,Jean AlesiALE,Tyrrell Ford,1:46.888
+11,33,Gregor FoitekFOI,Euro Brun Judd,1:49.458
+11,26,Olivier GrouillardGRO,Ligier Ford,1:46.893
+12,35,Aguri SuzukiSUZ,Zakspeed Yamaha,1:49.527
+12,7,Martin BrundleBRU,Brabham Judd,1:47.216
+13,23,Pierluigi MartiniMAR,Minardi Ford,1:47.380
+13,34,Bernd SchneiderSCH,Zakspeed Yamaha,1:50.455
+14,15,Mauricio GugelminGUG,March Judd,1:47.387
+16,8,Stefano ModenaMOD,Brabham Judd,1:47.511
+17,9,Derek WarwickWAR,Arrows Ford,1:47.533
+18,12,Satoru NakajimaNAK,Lotus Judd,1:47.663
+19,3,Jonathan  PalmerPAL,Tyrrell Ford,1:47.676
+20,21,Alex CaffiCAF,Dallara Ford,1:47.679
+21,22,Andrea de CesarisDEC,Dallara Ford,1:47.879
+22,16,Ivan CapelliCAP,March Judd,1:48.078
+23,25,Rene ArnouxARN,Ligier Ford,1:48.266
+25,10,Eddie  CheeverCHE,Arrows Ford,1:48.396
+27,24,Luis Perez-SalaPER,Minardi Ford,1:48.686
+29,38,Christian DannerDAN,Rial Ford,1:49.767
+30,39,Volker WeidlerWEI,Rial Ford,1:49.770

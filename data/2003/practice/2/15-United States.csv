@@ -1,0 +1,21 @@
+Pos,No,Driver,Car,Time,Gap,Laps
+1,7,Jarno TrulliTRU,Renault,1:12.408,,6
+2,4,Ralf SchumacherRSC,Williams BMW,1:12.468,+0.060s,15
+3,3,Juan Pablo MontoyaMOY,Williams BMW,1:12.495,+0.087s,15
+4,2,Rubens BarrichelloBAR,Ferrari,1:12.510,+0.102s,14
+5,8,Fernando AlonsoALO,Renault,1:12.741,+0.333s,6
+6,21,Cristiano da MattaDAM,Toyota,1:13.098,+0.690s,17
+7,20,Olivier PanisPAN,Toyota,1:13.306,+0.898s,10
+8,10,Heinz-Harald FrentzenFRE,Sauber Petronas,1:13.363,+0.955s,7
+9,14,Mark WebberWEB,Jaguar Cosworth,1:13.573,+1.165s,14
+10,15,Justin WilsonWIL,Jaguar Cosworth,1:13.781,+1.373s,8
+11,16,Jacques VilleneuveVIL,BAR Honda,1:13.960,+1.552s,7
+12,19,Jos VerstappenVER,Minardi Cosworth,1:14.411,+2.003s,7
+13,9,Nick HeidfeldHEI,Sauber Petronas,1:14.439,+2.031s,9
+14,18,Nicolas KiesaKIE,Minardi Cosworth,1:14.493,+2.085s,6
+15,17,Jenson ButtonBUT,BAR Honda,1:14.911,+2.503s,7
+16,11,Giancarlo FisichellaFIS,Jordan Ford,1:18.267,+5.859s,4
+17,1,Michael SchumacherMSC,Ferrari,,,1
+18,12,Ralph FirmanFIR,Jordan Ford,,,3
+19,6,Kimi RäikkönenRAI,McLaren Mercedes,,,1
+20,5,David CoulthardCOU,McLaren Mercedes,,,1

@@ -1,0 +1,19 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,1,Keke RosbergROS,Williams Ford,76,1:56:38.121,9
+2,5,Nelson PiquetPIQ,Brabham BMW,76,+18.475s,6
+3,15,Alain ProstPRO,Renault,76,+31.366s,4
+4,27,Patrick TambayTAM,Ferrari,76,+64.297s,3
+5,4,Danny SullivanSUL,Tyrrell Ford,74,+2 laps,2
+6,23,Mauro BaldiBAL,Alfa Romeo,74,+2 laps,1
+7,30,Chico SerraSER,Arrows Ford,74,+2 laps,0
+NC,6,Riccardo PatresePAT,Brabham BMW,64,DNF,0
+NC,2,Jacques LaffiteLAF,Williams Ford,53,DNF,0
+NC,29,Marc SurerSUR,Arrows Ford,49,DNF,0
+NC,35,Derek WarwickWAR,Toleman Hart,49,DNF,0
+NC,11,Elio de AngelisDEA,Lotus Renault,49,DNF,0
+NC,25,Jean-Pierre JarierJAR,Ligier Ford,32,DNF,0
+NC,16,Eddie  CheeverCHE,Renault,30,DNF,0
+NC,22,Andrea de CesarisDEC,Alfa Romeo,13,DNF,0
+NC,28,Rene ArnouxARN,Ferrari,6,DNF,0
+NC,26,Raul BoeselBOE,Ligier Ford,3,DNF,0
+NC,9,Manfred WinkelhockWIN,ATS BMW,3,DNF,0

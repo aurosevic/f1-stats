@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Q1,Q2,Q3,Laps
+1,6,Nico RosbergROS,Mercedes,1:17.631,1:17.109,1:16.540,17
+2,77,Valtteri BottasBOT,Williams Mercedes,1:18.215,1:17.353,1:16.759,15
+3,19,Felipe MassaMAS,Williams Mercedes,1:18.381,1:17.370,1:17.078,21
+4,20,Kevin MagnussenMAG,McLaren Mercedes,1:18.260,1:17.788,1:17.214,17
+5,3,Daniel RicciardoRIC,Red Bull Racing Renault,1:18.117,1:17.855,1:17.273,19
+6,1,Sebastian VettelVET,Red Bull Racing Renault,1:18.194,1:17.646,1:17.577,16
+7,14,Fernando AlonsoALO,Ferrari,1:18.389,1:17.866,1:17.649,19
+8,26,Daniil KvyatKVY,STR Renault,1:18.530,1:18.103,1:17.965,22
+9,27,Nico HulkenbergHUL,Force India Mercedes,1:18.927,1:18.017,1:18.014,21
+10,11,Sergio PerezPER,Force India Mercedes,1:18.916,1:18.161,1:18.035,21
+11,22,Jenson ButtonBUT,McLaren Mercedes,1:18.425,1:18.193,,15
+12,7,Kimi RäikkönenRAI,Ferrari,1:18.534,1:18.273,,13
+13,25,Jean-Eric VergneVER,STR Renault,1:18.496,1:18.285,,14
+14,21,Esteban Gutierrez GUT,Sauber Ferrari,1:18.739,1:18.787,,14
+15,8,Romain GrosjeanGRO,Lotus Renault,1:18.894,1:18.983,,14
+16,44,Lewis HamiltonHAM,Mercedes,1:18.683,,,5
+17,99,Adrian SutilSUT,Sauber Ferrari,1:19.142,,,8
+18,17,Jules BianchiBIA,Marussia Ferrari,1:19.676,,,8
+19,13,Pastor MaldonadoMAL,Lotus Renault,1:20.195,,,7
+20,10,Kamui KobayashiKOB,Caterham Renault,1:20.408,,,7
+21,4,Max ChiltonCHI,Marussia Ferrari,1:20.489,,,9
+22,9,Marcus EricssonERI,Caterham Renault,DNS,,,0

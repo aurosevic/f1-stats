@@ -1,0 +1,20 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,1,Michael SchumacherMSC,Ferrari,53,1:26:59.698,10
+2,2,Rubens BarrichelloBAR,Ferrari,53,+0.506s,6
+3,4,Kimi RäikkönenRAI,McLaren Mercedes,53,+23.292s,4
+4,6,Juan Pablo MontoyaMOY,Williams BMW,53,+36.275s,3
+5,10,Takuma SatoSAT,Jordan Honda,53,+82.694s,2
+6,15,Jenson ButtonBUT,Renault,52,+1 lap,1
+7,7,Nick HeidfeldHEI,Sauber Petronas,52,+1 lap,0
+8,24,Mika SaloSAL,Toyota,52,+1 lap,0
+9,16,Eddie IrvineIRV,Jaguar Cosworth,52,+1 lap,0
+10,23,Mark WebberWEB,Minardi Asiatech,51,+2 laps,0
+11,5,Ralf SchumacherRSC,Williams BMW,48,DNF,0
+NC,17,Pedro de la RosaDLR,Jaguar Cosworth,39,DNF,0
+NC,9,Giancarlo FisichellaFIS,Jordan Honda,37,DNF,0
+NC,14,Jarno TrulliTRU,Renault,32,DNF,0
+NC,11,Jacques VilleneuveVIL,BAR Honda,27,DNF,0
+NC,22,Alex YoongYOO,Minardi Asiatech,14,DNF,0
+NC,12,Olivier PanisPAN,BAR Honda,8,DNF,0
+NC,3,David CoulthardCOU,McLaren Mercedes,7,DNF,0
+NC,8,Felipe MassaMAS,Sauber Petronas,3,DNF,0

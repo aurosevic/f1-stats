@@ -1,0 +1,21 @@
+Pos,No,Driver,Car,Lap,Time,Avg speed
+1,23,Rubens BarrichelloBAR,Brawn Mercedes,42,1:52.592,174.289
+2,15,Sebastian VettelVET,RBR Renault,42,1:52.627,174.235
+3,10,Timo GlockGLO,Toyota,42,1:52.703,174.117
+4,14,Mark WebberWEB,RBR Renault,42,1:52.980,173.690
+5,11,Sebastien BourdaisBOU,STR Ferrari,43,1:53.474,172.934
+6,22,Jenson ButtonBUT,Brawn Mercedes,44,1:53.546,172.825
+7,6,Nick HeidfeldHEI,Sauber BMW,40,1:54.158,171.898
+8,16,Nico RosbergROS,Williams Toyota,55,1:54.243,171.770
+9,7,Fernando AlonsoALO,Renault,38,1:54.481,171.413
+10,2,Heikki KovalainenKOV,McLaren Mercedes,41,1:54.516,171.361
+11,12,Sebastien BuemiBUE,STR Ferrari,42,1:54.590,171.250
+12,1,Lewis HamiltonHAM,McLaren Mercedes,39,1:54.665,171.138
+13,20,Adrian SutilSUT,Force India Mercedes,41,1:54.777,170.971
+14,5,Robert KubicaKUB,Sauber BMW,44,1:55.350,170.122
+15,4,Kimi RäikkönenRAI,Ferrari,38,1:55.396,170.054
+16,8,Nelson PiquetPIQ,Renault,42,1:55.535,169.849
+17,17,Kazuki NakajimaNAK,Williams Toyota,38,1:56.167,168.925
+18,21,Giancarlo FisichellaFIS,Force India Mercedes,37,1:56.239,168.821
+19,3,Felipe MassaMAS,Ferrari,16,1:56.484,168.466
+20,9,Jarno TrulliTRU,Toyota,14,2:00.330,163.081

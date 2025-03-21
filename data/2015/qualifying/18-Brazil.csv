@@ -1,0 +1,21 @@
+Pos,No,Driver,Car,Q1,Q2,Q3,Laps
+1,6,Nico RosbergROS,Mercedes,1:11.746,1:12.213,1:11.282,12
+2,44,Lewis HamiltonHAM,Mercedes,1:11.682,1:11.665,1:11.360,12
+3,5,Sebastian VettelVET,Ferrari,1:12.240,1:11.928,1:11.804,16
+4,77,Valtteri BottasBOT,Williams Mercedes,1:12.934,1:12.374,1:12.085,18
+5,7,Kimi RäikkönenRAI,Ferrari,1:12.185,1:12.243,1:12.144,16
+6,27,Nico HulkenbergHUL,Force India Mercedes,1:12.595,1:12.485,1:12.265,18
+7,26,Daniil KvyatKVY,Red Bull Racing Renault,1:12.730,1:12.527,1:12.322,20
+8,19,Felipe MassaMAS,Williams Mercedes,1:12.980,1:12.858,1:12.415,21
+9,3,Daniel RicciardoRIC,Red Bull Racing Renault,1:12.639,1:12.825,1:12.417,17
+10,33,Max VerstappenVER,STR Renault,1:12.824,1:12.712,1:12.739,15
+11,12,Felipe NasrNAS,Sauber Ferrari,1:13.111,1:12.989,,14
+12,55,Carlos SainzSAI,STR Renault,1:13.267,1:13.045,,15
+13,11,Sergio PerezPER,Force India Mercedes,1:13.140,1:13.147,,13
+14,9,Marcus EricssonERI,Sauber Ferrari,1:13.346,1:13.233,,14
+15,8,Romain GrosjeanGRO,Lotus Mercedes,1:13.056,1:13.913,,11
+16,13,Pastor MaldonadoMAL,Lotus Mercedes,1:13.385,,,5
+17,22,Jenson ButtonBUT,McLaren Honda,1:13.425,,,6
+18,53,Alexander RossiRSI,Marussia Ferrari,1:16.151,,,6
+19,28,Will StevensSTE,Marussia Ferrari,1:16.283,,,6
+NC,14,Fernando AlonsoALO,McLaren Honda,DNF,,,2

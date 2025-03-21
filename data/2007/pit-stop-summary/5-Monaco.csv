@@ -1,0 +1,31 @@
+Stops,No,Driver,Car,Lap,Time of day,Time,Total
+1,3,Giancarlo FisichellaFIS,Renault,23,14:33:02,29.057,29.057
+1,16,Nico RosbergROS,Williams Toyota,23,14:33:28,26.446,26.446
+1,22,Takuma SatoSAT,Super Aguri Honda,24,14:35:26,28.747,28.747
+1,21,Christijan AlbersALB,Spyker Ferrari,24,14:35:46,25.757,25.757
+1,1,Fernando AlonsoALO,McLaren Mercedes,26,14:36:29,24.861,24.861
+1,5,Felipe MassaMAS,Ferrari,26,14:36:43,25.872,25.872
+1,2,Lewis HamiltonHAM,McLaren Mercedes,29,14:40:21,25.329,25.329
+1,9,Nick HeidfeldHEI,Sauber BMW,32,14:45:02,28.197,28.197
+1,23,Anthony DavidsonDAV,Super Aguri Honda,36,14:51:22,14.703,14.703
+1,8,Rubens BarrichelloBAR,Honda,37,14:51:47,24.726,24.726
+2,23,Anthony DavidsonDAV,Super Aguri Honda,37,14:52:52,28.595,43.298
+1,7,Jenson ButtonBUT,Honda,41,14:57:02,24.998,24.998
+1,14,David CoulthardCOU,Red Bull Renault,42,14:58:43,27.318,27.318
+1,17,Alexander WurzWUR,Williams Toyota,44,15:00:52,26.804,26.804
+1,4,Heikki KovalainenKOV,Renault,44,15:01:20,25.501,25.501
+1,20,Adrian SutilSUT,Spyker Ferrari,44,15:01:56,26.838,26.838
+1,10,Robert KubicaKUB,Sauber BMW,45,15:02:00,28.254,28.254
+1,19,Scott SpeedSPE,STR Ferrari,45,15:02:31,26.479,26.479
+1,6,Kimi RäikkönenRAI,Ferrari,47,15:05:03,25.002,25.002
+1,12,Jarno TrulliTRU,Toyota,47,15:05:42,25.228,25.228
+1,11,Ralf SchumacherRSC,Toyota,49,15:08:24,25.042,25.042
+2,1,Fernando AlonsoALO,McLaren Mercedes,51,15:08:29,24.687,49.548
+2,2,Lewis HamiltonHAM,McLaren Mercedes,53,15:11:11,23.297,48.626
+2,21,Christijan AlbersALB,Spyker Ferrari,51,15:11:51,26.295,52.052
+2,5,Felipe MassaMAS,Ferrari,55,15:14:23,28.150,54.022
+2,3,Giancarlo FisichellaFIS,Renault,55,15:14:41,24.025,53.082
+2,22,Takuma SatoSAT,Super Aguri Honda,57,15:18:58,23.948,52.695
+2,16,Nico RosbergROS,Williams Toyota,59,15:20:55,24.092,50.538
+2,8,Rubens BarrichelloBAR,Honda,60,15:22:09,24.010,48.736
+2,7,Jenson ButtonBUT,Honda,61,15:23:28,24.936,49.934

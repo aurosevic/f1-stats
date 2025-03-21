@@ -1,0 +1,28 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,7,Carlos ReutemannREU,Brabham Ford,78,1:42:40.960,9
+2,14,Jean-Pierre BeltoiseBEL,BRM,78,+33.940s,6
+3,33,Mike HailwoodHAI,McLaren Ford,78,+42.160s,4
+4,4,Patrick DepaillerDEP,Tyrrell Ford,78,+44.190s,3
+5,9,Hans-Joachim StuckSTU,March Ford,78,+46.230s,2
+6,20,Arturo MerzarioMER,Iso Marlboro Ford,78,+56.040s,1
+7,5,Emerson FittipaldiFIT,McLaren Ford,78,+68.390s,0
+8,3,Jody ScheckterSCH,Tyrrell Ford,78,+70.540s,0
+9,6,Denny HulmeHUL,McLaren Ford,77,+1 lap,0
+10,10,Vittorio BrambillaBRA,March Ford,77,+1 lap,0
+11,18,Carlos PacePAC,Surtees Ford,77,+1 lap,0
+12,26,Graham HillHIL,Lola Ford,77,+1 lap,0
+13,29,Ian ScheckterSCH,Lotus Ford,76,+2 laps,0
+14,32,Eddie  KeizanKEI,Tyrrell Ford,76,+2 laps,0
+15,37,Francois  MigaultMIG,BRM,75,+3 laps,0
+16,12,Niki LaudaLAU,Ferrari,74,DNF,0
+17,8,Richard   RobartsROB,Brabham Ford,74,+4 laps,0
+18,15,Henri PescaroloPES,BRM,72,+6 laps,0
+19,23,Dave CharltonCHA,McLaren Ford,71,+7 laps,0
+NC,11,Clay RegazzoniREG,Ferrari,65,DNF,0
+NC,28,John WatsonWAT,Brabham Ford,56,DNF,0
+NC,2,Jacky IckxICK,Lotus Ford,31,DNF,0
+NC,24,James HuntHUN,Hesketh Ford,13,DNF,0
+NC,19,Jochen MassMAS,Surtees Ford,11,DNF,0
+NC,30,Paddy DriverDRI,Lotus Ford,6,DNF,0
+NC,1,Ronnie PetersonPET,Lotus Ford,2,DNF,0
+NC,21,Tom  BelsoBEL,Iso Marlboro Ford,0,DNF,0

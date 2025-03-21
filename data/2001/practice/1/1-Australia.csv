@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Time,Gap,Laps
+1,2,Rubens BarrichelloBAR,Ferrari,1:28.965,,40
+2,12,Jarno TrulliTRU,Jordan Honda,1:29.267,+0.302s,35
+3,1,Michael SchumacherMSC,Ferrari,1:29.284,+0.319s,27
+4,4,David CoulthardCOU,McLaren Mercedes,1:29.324,+0.359s,37
+5,3,Mika HakkinenHAK,McLaren Mercedes,1:29.799,+0.834s,31
+6,5,Ralf SchumacherRSC,Williams BMW,1:30.277,+1.312s,41
+7,16,Nick HeidfeldHEI,Sauber Petronas,1:30.345,+1.380s,34
+8,11,Heinz-Harald FrentzenFRE,Jordan Honda,1:30.802,+1.837s,31
+9,22,Jean AlesiALE,Prost Acer,1:31.089,+2.124s,23
+10,9,Olivier PanisPAN,BAR Honda,1:31.166,+2.201s,42
+11,17,Kimi RäikkönenRAI,Sauber Petronas,1:31.453,+2.488s,31
+12,10,Jacques VilleneuveVIL,BAR Honda,1:31.559,+2.594s,30
+13,18,Eddie IrvineIRV,Jaguar Cosworth,1:31.573,+2.608s,35
+14,14,Jos VerstappenVER,Arrows Asiatech,1:31.669,+2.704s,39
+15,6,Juan Pablo MontoyaMOY,Williams BMW,1:31.721,+2.756s,37
+16,7,Giancarlo FisichellaFIS,Benetton Renault,1:32.475,+3.510s,32
+17,21,Fernando AlonsoALO,Minardi European,1:32.587,+3.622s,38
+18,19,Luciano BurtiBUR,Jaguar Cosworth,1:33.011,+4.046s,27
+19,23,Gaston MazzacaneMAZ,Prost Acer,1:33.153,+4.188s,31
+20,15,Enrique BernoldiBER,Arrows Asiatech,1:33.203,+4.238s,27
+21,8,Jenson ButtonBUT,Benetton Renault,1:33.403,+4.438s,26
+22,20,Tarso MarquesMAR,Minardi European,1:36.463,+7.498s,19

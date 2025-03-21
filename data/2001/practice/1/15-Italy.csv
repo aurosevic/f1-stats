@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Time,Gap,Laps
+1,5,Ralf SchumacherRSC,Williams BMW,1:24.667,,43
+2,6,Juan Pablo MontoyaMOY,Williams BMW,1:25.067,+0.400s,37
+3,1,Michael SchumacherMSC,Ferrari,1:25.131,+0.464s,34
+4,19,Pedro de la RosaDLR,Jaguar Cosworth,1:25.205,+0.538s,43
+5,2,Rubens BarrichelloBAR,Ferrari,1:25.311,+0.644s,39
+6,3,Mika HakkinenHAK,McLaren Mercedes,1:25.343,+0.676s,37
+7,4,David CoulthardCOU,McLaren Mercedes,1:25.544,+0.877s,39
+8,16,Nick HeidfeldHEI,Sauber Petronas,1:25.740,+1.073s,9
+9,12,Jean AlesiALE,Jordan Honda,1:25.849,+1.182s,37
+10,22,Heinz-Harald FrentzenFRE,Prost Acer,1:25.860,+1.193s,37
+11,7,Giancarlo FisichellaFIS,Benetton Renault,1:25.911,+1.244s,50
+12,11,Jarno TrulliTRU,Jordan Honda,1:25.987,+1.320s,39
+13,8,Jenson ButtonBUT,Benetton Renault,1:26.197,+1.530s,39
+14,9,Olivier PanisPAN,BAR Honda,1:26.354,+1.687s,43
+15,10,Jacques VilleneuveVIL,BAR Honda,1:26.521,+1.854s,40
+16,17,Kimi RäikkönenRAI,Sauber Petronas,1:26.701,+2.034s,4
+17,21,Fernando AlonsoALO,Minardi European,1:26.972,+2.305s,34
+18,15,Enrique BernoldiBER,Arrows Asiatech,1:27.217,+2.550s,44
+19,18,Eddie IrvineIRV,Jaguar Cosworth,1:27.401,+2.734s,23
+20,23,Tomas EngeENG,Prost Acer,1:27.662,+2.995s,29
+21,14,Jos VerstappenVER,Arrows Asiatech,1:27.900,+3.233s,18
+22,20,Alex YoongYOO,Minardi European,1:28.250,+3.583s,31

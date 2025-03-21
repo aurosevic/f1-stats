@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,2,Lewis HamiltonHAM,McLaren Mercedes,70,1:35:52.991,10
+2,6,Kimi RäikkönenRAI,Ferrari,70,+0.715s,8
+3,9,Nick HeidfeldHEI,Sauber BMW,70,+43.129s,6
+4,1,Fernando AlonsoALO,McLaren Mercedes,70,+44.858s,5
+5,10,Robert KubicaKUB,Sauber BMW,70,+47.616s,4
+6,11,Ralf SchumacherRSC,Toyota,70,+50.669s,3
+7,16,Nico RosbergROS,Williams Toyota,70,+59.139s,2
+8,4,Heikki KovalainenKOV,Renault,70,+68.104s,1
+9,15,Mark WebberWEB,Red Bull Renault,70,+76.331s,0
+10,12,Jarno TrulliTRU,Toyota,69,+1 lap,0
+11,14,David CoulthardCOU,Red Bull Renault,69,+1 lap,0
+12,3,Giancarlo FisichellaFIS,Renault,69,+1 lap,0
+13,5,Felipe MassaMAS,Ferrari,69,+1 lap,0
+14,17,Alexander WurzWUR,Williams Toyota,69,+1 lap,0
+15,22,Takuma SatoSAT,Super Aguri Honda,69,+1 lap,0
+16,19,Sebastian VettelVET,STR Ferrari,69,+1 lap,0
+17,20,Adrian SutilSUT,Spyker Ferrari,68,+2 laps,0
+18,8,Rubens BarrichelloBAR,Honda,68,+2 laps,0
+NC,18,Vitantonio LiuzziLIU,STR Ferrari,42,DNF,0
+NC,23,Anthony DavidsonDAV,Super Aguri Honda,41,DNF,0
+NC,7,Jenson ButtonBUT,Honda,35,DNF,0
+NC,21,Sakon YamamotoYAM,Spyker Ferrari,4,DNF,0

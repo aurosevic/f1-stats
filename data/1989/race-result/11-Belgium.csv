@@ -1,0 +1,27 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,1,Ayrton SennaSEN,McLaren Honda,44,1:40:54.196,9
+2,2,Alain ProstPRO,McLaren Honda,44,+1.304s,6
+3,27,Nigel MansellMAN,Ferrari,44,+1.824s,4
+4,5,Thierry BoutsenBOU,Williams Renault,44,+54.418s,3
+5,19,Alessandro NanniniNAN,Benetton Ford,44,+68.805s,2
+6,9,Derek WarwickWAR,Arrows Ford,44,+78.316s,1
+7,15,Mauricio GugelminGUG,March Judd,43,+1 lap,0
+8,36,Stefan JohanssonJOH,Onyx Ford,43,+1 lap,0
+9,23,Pierluigi MartiniMAR,Minardi Ford,43,+1 lap,0
+10,20,Emanuele PirroPIR,Benetton Ford,43,+1 lap,0
+11,22,Andrea de CesarisDEC,Dallara Ford,43,+1 lap,0
+12,16,Ivan CapelliCAP,March Judd,43,+1 lap,0
+13,26,Olivier GrouillardGRO,Ligier Ford,43,+1 lap,0
+14,3,Jonathan  PalmerPAL,Tyrrell Ford,42,+2 laps,0
+15,24,Luis Perez-SalaPER,Minardi Ford,41,+3 laps,0
+16,30,Philippe AlliotALL,Lola Lamborghini,39,DNF,0
+NC,10,Eddie  CheeverCHE,Arrows Ford,38,DNF,0
+NC,37,Bertrand GachotGAC,Onyx Ford,21,DNF,0
+NC,6,Riccardo PatresePAT,Williams Renault,20,DNF,0
+NC,29,Michele AlboretoALB,Lola Lamborghini,19,DNF,0
+NC,21,Alex CaffiCAF,Dallara Ford,13,DNF,0
+NC,7,Martin BrundleBRU,Brabham Judd,12,DNF,0
+NC,28,Gerhard BergerBER,Ferrari,9,DNF,0
+NC,8,Stefano ModenaMOD,Brabham Judd,9,DNF,0
+NC,25,Rene ArnouxARN,Ligier Ford,4,DNF,0
+NC,4,Johnny HerbertHER,Tyrrell Ford,3,DNF,0

@@ -1,0 +1,25 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,1,Jenson ButtonBUT,McLaren Mercedes,56,1:46:42.163,25
+2,2,Lewis HamiltonHAM,McLaren Mercedes,56,+1.530s,18
+3,4,Nico RosbergROS,Mercedes,56,+9.484s,15
+4,8,Fernando AlonsoALO,Ferrari,56,+11.869s,12
+5,11,Robert KubicaKUB,Renault,56,+22.213s,10
+6,5,Sebastian VettelVET,RBR Renault,56,+33.310s,8
+7,12,Vitaly PetrovPET,Renault,56,+47.600s,6
+8,6,Mark WebberWEB,RBR Renault,56,+52.172s,4
+9,7,Felipe MassaMAS,Ferrari,56,+57.796s,2
+10,3,Michael SchumacherMSC,Mercedes,56,+61.749s,1
+11,14,Adrian SutilSUT,Force India Mercedes,56,+62.874s,0
+12,9,Rubens BarrichelloBAR,Williams Cosworth,56,+63.665s,0
+13,17,Jaime AlguersuariALG,STR Ferrari,56,+71.416s,0
+14,19,Heikki KovalainenKOV,Lotus Cosworth,55,+1 lap,0
+15,10,Nico HulkenbergHUL,Williams Cosworth,55,+1 lap,0
+16,21,Bruno SennaSEN,HRT Cosworth,54,+2 laps,0
+17,20,Karun ChandhokCHD,HRT Cosworth,52,+4 laps,0
+NC,18,Jarno TrulliTRU,Lotus Cosworth,26,DNF,0
+NC,25,Lucas di GrassiDIG,Virgin Cosworth,8,DNF,0
+NC,22,Pedro de la RosaDLR,Sauber Ferrari,7,DNF,0
+NC,16,Sebastien BuemiBUE,STR Ferrari,0,DNF,0
+NC,23,Kamui KobayashiKOB,Sauber Ferrari,0,DNF,0
+NC,15,Vitantonio LiuzziLIU,Force India Mercedes,0,DNF,0
+NC,24,Timo GlockGLO,Virgin Cosworth,,DNS,0

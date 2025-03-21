@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Time,Gap,Laps
+1,10,Lewis HamiltonHAM,Mercedes,1:25.565,,24
+2,3,Fernando AlonsoALO,Ferrari,1:25.600,+0.035s,25
+3,9,Nico RosbergROS,Mercedes,1:25.704,+0.139s,25
+4,1,Sebastian VettelVET,Red Bull Racing Renault,1:25.753,+0.188s,26
+5,7,Kimi RäikkönenRAI,Lotus Renault,1:25.941,+0.376s,22
+6,6,Sergio PerezPER,McLaren Mercedes,1:26.007,+0.442s,24
+7,5,Jenson ButtonBUT,McLaren Mercedes,1:26.035,+0.470s,23
+8,2,Mark WebberWEB,Red Bull Racing Renault,1:26.103,+0.538s,27
+9,16,Pastor MaldonadoMAL,Williams Renault,1:26.149,+0.584s,21
+10,18,Jean-Eric VergneVER,STR Ferrari,1:26.155,+0.590s,25
+11,12,Esteban Gutierrez GUT,Sauber Ferrari,1:26.194,+0.629s,25
+12,8,Romain GrosjeanGRO,Lotus Renault,1:26.295,+0.730s,23
+13,19,Daniel RicciardoRIC,STR Ferrari,1:26.387,+0.822s,21
+14,4,Felipe MassaMAS,Ferrari,1:26.449,+0.884s,16
+15,14,Paul di RestaDIR,Force India Mercedes,1:26.594,+1.029s,13
+16,17,Valtteri BottasBOT,Williams Renault,1:26.802,+1.237s,21
+17,15,James CaladoCAL,Force India Mercedes,1:27.041,+1.476s,24
+18,11,Nico HulkenbergHUL,Sauber Ferrari,1:27.224,+1.659s,16
+19,20,Charles PicPIC,Caterham Renault,1:27.818,+2.253s,24
+20,23,Max ChiltonCHI,Marussia Cosworth,1:27.869,+2.304s,20
+21,21,Heikki KovalainenKOV,Caterham Renault,1:28.192,+2.627s,21
+22,22,Rodolfo Gonzalez GON,Marussia Cosworth,1:29.526,+3.961s,26

@@ -1,0 +1,37 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,2,Nino FarinaFAR,Ferrari,18,3:02:25.000,8
+2,5,Juan Manuel FangioFAN,Maserati,18,+64.000s,6
+3,3,Mike HawthornHAW,Ferrari,18,+103.600s,4
+4,7,Felice  BonettoBON,Maserati,18,+528.600s,3
+5,17,Toulo de GraffenriedDEG,Maserati,17,+1 lap,2
+6,19,Stirling MossMOS,Cooper Alta,17,+1 lap,0
+7,18,Jacques SwatersSWA,Ferrari,17,+1 lap,0
+8,1,Alberto AscariASC,Ferrari,,SHC,1
+8,1,Luigi  VilloresiVIL,Ferrari,17,+1 lap,0
+9,31,Hans  HerrmannHER,Veritas,17,+1 lap,0
+10,20,Louis  RosierROS,Ferrari,17,+1 lap,0
+11,40,Rodney NuckeyNUC,Cooper Bristol,16,+2 laps,0
+12,24,Theo HelfrichHEL,Veritas,16,+2 laps,0
+13,16,Kenneth McAlpineMCA,Connaught Lea Francis,16,+2 laps,0
+14,36,Rudolf KrauseKRA,BMW,16,+2 laps,0
+NC,4,Luigi  VilloresiVIL,Ferrari,,SHC,0
+NC,4,Alberto AscariASC,Ferrari,15,DNF,0
+NC,38,Alan BrownBRO,Cooper Bristol,15,DNF,0
+15,37,Ernst KlodwigKLO,BMW,15,+3 laps,0
+16,22,Wolfgang SeidelSEI,Veritas,14,+4 laps,0
+NC,8,Onofre MarimonMAR,Maserati,13,DNF,0
+NC,12,Johnny ClaesCLA,Connaught Lea Francis,12,DNF,0
+NC,35,Edgar BarthBAR,EMW,12,DNF,0
+NC,26,Oswald KarchKAR,Veritas,10,DNF,0
+NC,23,Willi HeeksHEE,Veritas,8,DNF,0
+NC,9,Jean BehraBEH,Gordini,7,DNF,0
+NC,11,Harry SchellSCH,Gordini,6,DNF,0
+NC,14,Prince BiraBIR,Connaught Lea Francis,6,DNF,0
+NC,28,Theo FitzauFIT,AFM BMW,3,DNF,0
+NC,34,Kurt AdolffADO,Ferrari,3,DNF,0
+NC,41,Günther BechemBEC,AFM BMW,2,DNF,0
+NC,15,Roy SalvadoriSAL,Connaught Lea Francis,1,DNF,0
+NC,32,Erwin BauerBAU,Veritas,1,DNF,0
+NC,10,Maurice  TrintignantTRI,Gordini,1,DNF,0
+NC,21,Hans Von StuckSTU,AFM Bristol,0,DNF,0
+NC,30,Ernst LoofLOO,Veritas,0,DNF,0

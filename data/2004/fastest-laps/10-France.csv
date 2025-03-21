@@ -1,0 +1,21 @@
+Pos,No,Driver,Car,Lap,Time,Avg speed
+1,1,Michael SchumacherMSC,Ferrari,32,1:15.377,210.669
+2,8,Fernando AlonsoALO,Renault,34,1:15.551,210.183
+3,6,Kimi RäikkönenRAI,McLaren Mercedes,30,1:15.791,209.518
+4,14,Mark WebberWEB,Jaguar Cosworth,53,1:15.956,209.063
+5,9,Jenson ButtonBUT,BAR Honda,50,1:15.971,209.021
+6,2,Rubens BarrichelloBAR,Ferrari,50,1:16.035,208.845
+7,4,Marc GeneGEN,Williams BMW,56,1:16.070,206.749
+8,3,Juan Pablo MontoyaMOY,Williams BMW,48,1:16.140,208.557
+9,7,Jarno TrulliTRU,Renault,15,1:16.248,208.262
+10,5,David CoulthardCOU,McLaren Mercedes,11,1:16.303,208.112
+11,11,Giancarlo FisichellaFIS,Sauber Petronas,22,1:16.699,207.037
+12,10,Takuma SatoSAT,BAR Honda,14,1:16.809,206.741
+13,15,Christian KlienKLI,Jaguar Cosworth,37,1:16.852,206.625
+14,16,Cristiano da MattaDAM,Toyota,49,1:16.937,206.397
+15,17,Olivier PanisPAN,Toyota,53,1:17.069,206.043
+16,12,Felipe MassaMAS,Sauber Petronas,23,1:17.388,205.194
+17,19,Giorgio PantanoPAN,Jordan Ford,15,1:17.641,204.525
+18,18,Nick HeidfeldHEI,Jordan Ford,26,1:18.627,201.961
+19,20,Gianmaria BruniBRU,Minardi Cosworth,52,1:18.932,201.180
+20,21,Zsolt BaumgartnerBAU,Minardi Cosworth,13,1:19.659,199.344

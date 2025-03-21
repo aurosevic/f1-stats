@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,1,Fernando AlonsoALO,McLaren Mercedes,56,1:32:14.930,10
+2,2,Lewis HamiltonHAM,McLaren Mercedes,56,+17.557s,8
+3,6,Kimi RäikkönenRAI,Ferrari,56,+18.339s,6
+4,9,Nick HeidfeldHEI,Sauber BMW,56,+33.777s,5
+5,5,Felipe MassaMAS,Ferrari,56,+36.705s,4
+6,3,Giancarlo FisichellaFIS,Renault,56,+65.638s,3
+7,12,Jarno TrulliTRU,Toyota,56,+70.132s,2
+8,4,Heikki KovalainenKOV,Renault,56,+72.015s,1
+9,17,Alexander WurzWUR,Williams Toyota,56,+89.924s,0
+10,15,Mark WebberWEB,Red Bull Renault,56,+93.556s,0
+11,8,Rubens BarrichelloBAR,Honda,55,+1 lap,0
+12,7,Jenson ButtonBUT,Honda,55,+1 lap,0
+13,22,Takuma SatoSAT,Super Aguri Honda,55,+1 lap,0
+14,19,Scott SpeedSPE,STR Ferrari,55,+1 lap,0
+15,11,Ralf SchumacherRSC,Toyota,55,+1 lap,0
+16,23,Anthony DavidsonDAV,Super Aguri Honda,55,+1 lap,0
+17,18,Vitantonio LiuzziLIU,STR Ferrari,55,+1 lap,0
+18,10,Robert KubicaKUB,Sauber BMW,55,+1 lap,0
+NC,16,Nico RosbergROS,Williams Toyota,42,DNF,0
+NC,14,David CoulthardCOU,Red Bull Renault,36,DNF,0
+NC,21,Christijan AlbersALB,Spyker Ferrari,7,DNF,0
+NC,20,Adrian SutilSUT,Spyker Ferrari,0,DNF,0

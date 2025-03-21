@@ -1,0 +1,21 @@
+Pos,No,Driver,Car,Lap,Time,Avg speed
+1,1,Kimi RäikkönenRAI,Ferrari,74,1:16.689,156.789
+2,23,Heikki KovalainenKOV,McLaren Mercedes,74,1:17.282,155.586
+3,5,Fernando AlonsoALO,Renault,73,1:17.869,154.413
+4,2,Felipe MassaMAS,Ferrari,76,1:17.886,154.379
+5,4,Robert KubicaKUB,Sauber BMW,75,1:17.933,154.286
+6,22,Lewis HamiltonHAM,McLaren Mercedes,71,1:18.510,153.152
+7,15,Sebastian VettelVET,STR Ferrari,74,1:18.787,152.614
+8,10,Mark WebberWEB,Red Bull Renault,74,1:19.036,152.133
+9,17,Rubens BarrichelloBAR,Honda,75,1:19.574,151.104
+10,16,Jenson ButtonBUT,Honda,74,1:19.582,151.089
+11,12,Timo GlockGLO,Toyota,75,1:19.618,151.021
+12,11,Jarno TrulliTRU,Toyota,75,1:19.830,150.620
+13,8,Kazuki NakajimaNAK,Williams Toyota,75,1:19.910,150.469
+14,3,Nick HeidfeldHEI,Sauber BMW,72,1:20.251,149.829
+15,7,Nico RosbergROS,Williams Toyota,58,1:21.270,147.951
+16,20,Adrian SutilSUT,Force India Ferrari,60,1:22.039,146.564
+17,6,Nelson PiquetPIQ,Renault,40,1:31.187,131.860
+18,21,Giancarlo FisichellaFIS,Force India Ferrari,33,1:32.849,129.500
+19,14,Sebastien BourdaisBOU,STR Ferrari,7,1:41.150,118.872
+20,9,David CoulthardCOU,Red Bull Renault,7,1:42.112,117.753

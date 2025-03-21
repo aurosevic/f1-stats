@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,3,Daniel RicciardoRIC,Red Bull Racing Renault,70,1:39:12.830,25
+2,6,Nico RosbergROS,Mercedes,70,+4.236s,18
+3,1,Sebastian VettelVET,Red Bull Racing Renault,70,+5.247s,15
+4,22,Jenson ButtonBUT,McLaren Mercedes,70,+11.755s,12
+5,27,Nico HulkenbergHUL,Force India Mercedes,70,+12.843s,10
+6,14,Fernando AlonsoALO,Ferrari,70,+14.869s,8
+7,77,Valtteri BottasBOT,Williams Mercedes,70,+23.578s,6
+8,25,Jean-Eric VergneVER,STR Renault,70,+28.026s,4
+9,20,Kevin MagnussenMAG,McLaren Mercedes,70,+29.254s,2
+10,7,Kimi RäikkönenRAI,Ferrari,70,+53.678s,1
+11,11,Sergio PerezPER,Force India Mercedes,69,DNF,0
+12,19,Felipe MassaMAS,Williams Mercedes,69,DNF,0
+13,99,Adrian SutilSUT,Sauber Ferrari,69,+1 lap,0
+14,21,Esteban Gutierrez GUT,Sauber Ferrari,64,DNF,0
+NC,8,Romain GrosjeanGRO,Lotus Renault,59,DNF,0
+NC,26,Daniil KvyatKVY,STR Renault,47,DNF,0
+NC,44,Lewis HamiltonHAM,Mercedes,46,DNF,0
+NC,10,Kamui KobayashiKOB,Caterham Renault,23,DNF,0
+NC,13,Pastor MaldonadoMAL,Lotus Renault,21,DNF,0
+NC,9,Marcus EricssonERI,Caterham Renault,7,DNF,0
+NC,4,Max ChiltonCHI,Marussia Ferrari,0,DNF,0
+NC,17,Jules BianchiBIA,Marussia Ferrari,0,DNF,0

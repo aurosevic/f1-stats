@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,6,Nico RosbergROS,Mercedes,78,1:49:27.661,25
+2,44,Lewis HamiltonHAM,Mercedes,78,+9.210s,18
+3,3,Daniel RicciardoRIC,Red Bull Racing Renault,78,+9.614s,15
+4,14,Fernando AlonsoALO,Ferrari,78,+32.452s,12
+5,27,Nico HulkenbergHUL,Force India Mercedes,77,+1 lap,10
+6,22,Jenson ButtonBUT,McLaren Mercedes,77,+1 lap,8
+7,19,Felipe MassaMAS,Williams Mercedes,77,+1 lap,6
+8,8,Romain GrosjeanGRO,Lotus Renault,77,+1 lap,4
+9,17,Jules BianchiBIA,Marussia Ferrari,77,+1 lap,2
+10,20,Kevin MagnussenMAG,McLaren Mercedes,77,+1 lap,1
+11,9,Marcus EricssonERI,Caterham Renault,77,+1 lap,0
+12,7,Kimi RäikkönenRAI,Ferrari,77,+1 lap,0
+13,10,Kamui KobayashiKOB,Caterham Renault,75,+3 laps,0
+14,4,Max ChiltonCHI,Marussia Ferrari,75,+3 laps,0
+NC,21,Esteban Gutierrez GUT,Sauber Ferrari,59,DNF,0
+NC,77,Valtteri BottasBOT,Williams Mercedes,55,DNF,0
+NC,25,Jean-Eric VergneVER,STR Renault,50,DNF,0
+NC,99,Adrian SutilSUT,Sauber Ferrari,23,DNF,0
+NC,26,Daniil KvyatKVY,STR Renault,10,DNF,0
+NC,1,Sebastian VettelVET,Red Bull Racing Renault,5,DNF,0
+NC,11,Sergio PerezPER,Force India Mercedes,0,DNF,0
+NC,13,Pastor MaldonadoMAL,Lotus Renault,,DNS,0

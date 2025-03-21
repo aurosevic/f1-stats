@@ -1,0 +1,21 @@
+Pos,No,Driver,Car,Lap,Time,Avg speed
+1,15,Sebastian VettelVET,RBR Renault,16,1:20.735,229.238
+2,14,Mark WebberWEB,RBR Renault,57,1:20.915,228.728
+3,16,Nico RosbergROS,Williams Toyota,17,1:21.054,228.336
+4,22,Jenson ButtonBUT,Brawn Mercedes,54,1:21.189,227.956
+5,23,Rubens BarrichelloBAR,Brawn Mercedes,18,1:21.429,227.285
+6,3,Felipe MassaMAS,Ferrari,22,1:21.509,227.062
+7,4,Kimi RäikkönenRAI,Ferrari,14,1:21.656,226.653
+8,10,Timo GlockGLO,Toyota,51,1:21.671,226.611
+9,9,Jarno TrulliTRU,Toyota,17,1:21.806,226.237
+10,21,Giancarlo FisichellaFIS,Force India Mercedes,20,1:21.810,226.226
+11,17,Kazuki NakajimaNAK,Williams Toyota,14,1:21.845,226.129
+12,7,Fernando AlonsoALO,Renault,36,1:21.852,226.110
+13,6,Nick HeidfeldHEI,Sauber BMW,59,1:21.956,225.823
+14,5,Robert KubicaKUB,Sauber BMW,41,1:22.182,225.202
+15,2,Heikki KovalainenKOV,McLaren Mercedes,32,1:22.418,224.557
+16,11,Sebastien BourdaisBOU,STR Ferrari,26,1:22.466,224.427
+17,8,Nelson PiquetPIQ,Renault,25,1:22.505,224.320
+18,1,Lewis HamiltonHAM,McLaren Mercedes,24,1:22.576,224.128
+19,12,Sebastien BuemiBUE,STR Ferrari,24,1:22.711,223.762
+20,20,Adrian SutilSUT,Force India Mercedes,50,1:23.475,221.714

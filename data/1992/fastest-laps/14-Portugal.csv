@@ -1,0 +1,27 @@
+Pos,No,Driver,Car,Lap,Time
+1,1,Ayrton SennaSEN,McLaren Honda,66,1:16.272
+2,5,Nigel MansellMAN,Williams Renault,57,1:17.137
+3,2,Gerhard BergerBER,McLaren Honda,60,1:17.399
+4,19,Michael SchumacherMSC,Benetton Ford,62,1:17.772
+5,6,Riccardo PatresePAT,Williams Renault,33,1:18.349
+6,20,Martin BrundleBRU,Benetton Ford,54,1:19.371
+7,23,Christian FittipaldiFIT,Minardi Lamborghini,57,1:19.605
+8,9,Michele AlboretoALB,Footwork Mugen Honda,63,1:19.966
+9,10,Aguri SuzukiSUZ,Footwork Mugen Honda,46,1:20.080
+10,26,Erik ComasCOM,Ligier Renault,27,1:20.145
+11,11,Mika HakkinenHAK,Lotus Ford,30,1:20.187
+12,25,Thierry BoutsenBOU,Ligier Renault,46,1:20.275
+13,4,Andrea de CesarisDEC,Tyrrell Ilmor,52,1:20.515
+14,16,Karl WendlingerWEN,March Ilmor,28,1:20.716
+15,24,Gianni MorbidelliMOR,Minardi Lamborghini,58,1:20.807
+16,32,Stefano ModenaMOD,Jordan Yamaha,37,1:20.889
+17,30,Ukyo KatayamaKAT,Venturi Lamborghini,45,1:21.216
+18,17,Emanuele NaspettiNAS,March Ilmor,32,1:21.314
+19,27,Jean AlesiALE,Ferrari,9,1:21.638
+20,28,Ivan CapelliCAP,Ferrari,28,1:21.799
+21,21,Jyrki JarvilehtoJAR,Dallara Ferrari,26,1:21.874
+22,3,Olivier GrouillardGRO,Tyrrell Ilmor,24,1:21.906
+23,22,Pierluigi MartiniMAR,Dallara Ferrari,26,1:22.156
+24,29,Bertrand GachotGAC,Venturi Lamborghini,11,1:22.394
+25,33,Mauricio GugelminGUG,Jordan Yamaha,9,1:23.606
+26,12,Johnny HerbertHER,Lotus Ford,1,1:58.788

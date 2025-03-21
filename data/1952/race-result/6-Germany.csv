@@ -1,0 +1,31 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,101,Alberto AscariASC,Ferrari,18,3:06:13.300,9
+2,102,Nino FarinaFAR,Ferrari,18,+14.100s,6
+3,117,Rudi  Fischer FIS,Ferrari,18,+430.100s,4
+4,103,Piero  TaruffiTAR,Ferrari,17,+1 lap,3
+5,108,Jean BehraBEH,Gordini,17,+1 lap,2
+6,119,Roger LaurentLAU,Ferrari,16,+2 laps,0
+7,121,Fritz RiessRIE,Veritas,16,+2 laps,0
+8,125,Toni UlmenULM,Veritas,16,+2 laps,0
+9,124,Helmut NiedermayrNIE,AFM BMW,15,+3 laps,0
+10,113,Johnny ClaesCLA,HWM Alta,15,+3 laps,0
+11,128,Hans KlenkKLE,Veritas,14,+4 laps,0
+12,135,Ernst KlodwigKLO,BMW,14,+4 laps,0
+NC,107,Robert  ManzonMAN,Gordini,8,DNF,0
+NC,123,Willi HeeksHEE,AFM BMW,7,DNF,0
+NC,120,Tony GazeGAZ,HWM Alta,6,DNF,0
+NC,110,Marcel  BalsaBAL,BMW,5,DNF,0
+NC,126,Adolf BrudesBRU,Veritas,5,DNF,0
+NC,130,Günther BechemBEC,BMW,5,DNF,0
+NC,116,Eitel CantoniCAN,Maserati,4,DNF,0
+NC,136,Rudolf KrauseKRA,BMW,3,DNF,0
+NC,118,Rudolf SchoellerSCH,Ferrari,3,DNF,0
+NC,114,Bill  AstonAST,Aston Butterworth,2,DNF,0
+NC,104,Piero CariniCAR,Ferrari,1,DNF,0
+NC,127,Paul  PietschPIE,Veritas,1,DNF,0
+NC,122,Theo HelfrichHEL,Veritas,1,DNF,0
+NC,112,Paul FrereFRE,HWM Alta,1,DNF,0
+NC,129,Josef PetersPET,Veritas,1,DNF,0
+NC,109,Maurice  TrintignantTRI,Gordini,1,DNF,0
+DQ,105,Felice  BonettoBON,Maserati,1,DSQ,0
+NC,115,Gino BiancoBIA,Maserati,0,DNF,0

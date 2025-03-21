@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Time,Gap,Laps
+1,8,Mika HakkinenHAK,McLaren Mercedes,1:19.850,,23
+2,3,Michael SchumacherMSC,Ferrari,1:19.925,+0.075s,11
+3,10,Ralf SchumacherRSC,Jordan Mugen Honda,1:20.327,+0.477s,33
+4,7,David CoulthardCOU,McLaren Mercedes,1:20.388,+0.538s,30
+5,1,Jacques VilleneuveVIL,Williams Mecachrome,1:20.457,+0.607s,27
+6,2,Heinz-Harald FrentzenFRE,Williams Mecachrome,1:20.646,+0.796s,33
+7,6,Alexander WurzWUR,Benetton Playlife,1:20.819,+0.969s,25
+8,5,Giancarlo FisichellaFIS,Benetton Playlife,1:20.834,+0.984s,28
+9,12,Jarno TrulliTRU,Prost Peugeot,1:20.953,+1.103s,33
+10,4,Eddie IrvineIRV,Ferrari,1:20.982,+1.132s,37
+11,9,Damon HillHIL,Jordan Mugen Honda,1:21.050,+1.200s,37
+12,14,Jean AlesiALE,Sauber Petronas,1:21.427,+1.577s,32
+13,15,Johnny HerbertHER,Sauber Petronas,1:21.649,+1.799s,27
+14,17,Mika SaloSAL,Arrows,1:21.704,+1.854s,28
+15,16,Pedro DinizDIN,Arrows,1:21.781,+1.931s,29
+16,18,Rubens BarrichelloBAR,Stewart Ford,1:22.276,+2.426s,24
+17,19,Jos VerstappenVER,Stewart Ford,1:22.399,+2.549s,21
+18,23,Esteban TueroTUE,Minardi Ford,1:22.893,+3.043s,36
+19,21,Toranosuke TakagiTAK,Tyrrell Ford,1:22.968,+3.118s,32
+20,22,Shinji NakanoNAK,Minardi Ford,1:23.019,+3.169s,32
+21,11,Olivier PanisPAN,Prost Peugeot,1:23.928,+4.078s,27
+22,20,Ricardo RossetROS,Tyrrell Ford,1:25.570,+5.720s,19

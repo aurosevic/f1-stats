@@ -1,0 +1,19 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,12,Niki LaudaLAU,Ferrari,75,2:01:21.310,9
+2,1,Emerson FittipaldiFIT,McLaren Ford,75,+2.780s,6
+3,8,Carlos PacePAC,Brabham Ford,75,+17.810s,4
+4,5,Ronnie PetersonPET,Lotus Ford,75,+38.450s,3
+5,4,Patrick DepaillerDEP,Tyrrell Ford,75,+40.860s,2
+6,2,Jochen MassMAS,McLaren Ford,75,+42.070s,1
+7,3,Jody ScheckterSCH,Tyrrell Ford,74,+1 lap,0
+8,6,Jacky IckxICK,Lotus Ford,74,+1 lap,0
+9,7,Carlos ReutemannREU,Brabham Ford,73,+2 laps,0
+NC,28,Mark DonohueDON,Penske Ford,66,DNF,0
+NC,24,James HuntHUN,Hesketh Ford,63,DNF,0
+NC,26,Alan  JonesJON,Hesketh Ford,61,DNF,0
+NC,9,Vittorio BrambillaBRA,March Ford,48,DNF,0
+NC,16,Tom PrycePRY,Shadow Ford,39,DNF,0
+NC,18,John WatsonWAT,Surtees Ford,36,DNF,0
+NC,11,Clay RegazzoniREG,Ferrari,36,DNF,0
+NC,27,Mario AndrettiAND,Parnelli Ford,9,DNF,0
+NC,17,Jean-Pierre JarierJAR,Shadow Ford,0,DNF,0

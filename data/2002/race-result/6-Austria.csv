@@ -1,0 +1,23 @@
+Pos,No,Driver,Car,Laps,Time/retired,Pts
+1,1,Michael SchumacherMSC,Ferrari,71,1:33:51.562,10
+2,2,Rubens BarrichelloBAR,Ferrari,71,+0.182s,6
+3,6,Juan Pablo MontoyaMOY,Williams BMW,71,+17.730s,4
+4,5,Ralf SchumacherRSC,Williams BMW,71,+18.448s,3
+5,9,Giancarlo FisichellaFIS,Jordan Honda,71,+49.965s,2
+6,3,David CoulthardCOU,McLaren Mercedes,71,+50.672s,1
+7,15,Jenson ButtonBUT,Renault,71,+51.229s,0
+8,24,Mika SaloSAL,Toyota,71,+69.425s,0
+9,25,Allan McNishMCN,Toyota,71,+69.718s,0
+10,11,Jacques VilleneuveVIL,BAR Honda,70,DNF,0
+11,20,Heinz-Harald FrentzenFRE,Arrows Cosworth,69,+2 laps,0
+12,23,Mark WebberWEB,Minardi Asiatech,69,+2 laps,0
+NC,14,Jarno TrulliTRU,Renault,44,DNF,0
+NC,22,Alex YoongYOO,Minardi Asiatech,42,DNF,0
+NC,16,Eddie IrvineIRV,Jaguar Cosworth,38,DNF,0
+NC,7,Nick HeidfeldHEI,Sauber Petronas,27,DNF,0
+NC,10,Takuma SatoSAT,Jordan Honda,26,DNF,0
+NC,12,Olivier PanisPAN,BAR Honda,22,DNF,0
+NC,8,Felipe MassaMAS,Sauber Petronas,7,DNF,0
+NC,4,Kimi RäikkönenRAI,McLaren Mercedes,5,DNF,0
+NC,21,Enrique BernoldiBER,Arrows Cosworth,2,DNF,0
+NC,17,Pedro de la RosaDLR,Jaguar Cosworth,0,DNF,0
