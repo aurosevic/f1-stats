@@ -52,7 +52,7 @@ def save_table_data(gp_table: BeautifulSoup, year: int, section: RaceSection, gp
     print(f'Finished with {section.name}.')
 
 
-def scrape_grand_prix(year: int, url: str, grand_prix: str, gp_id: str, file_name: str):
+def scrape_grand_prix(year: int, url: str, gp_id: str, file_name: str):
     for section in RaceSection:
         if os.path.exists(f'data/{year}/{section.value}/{file_name}.csv'):
             continue
@@ -84,7 +84,7 @@ def scrape_f1_table(year=date.today().year, max_workers=10):
 
                 file_name = f'{i + 1}-{grand_prix}'
                 gp_id = cols[0].find('a')['href'].split('/', 1)[1].rsplit('/', 1)[0]
-                tasks.append(executor.submit(scrape_grand_prix, year, url, grand_prix, gp_id, file_name))
+                tasks.append(executor.submit(scrape_grand_prix, year, url, gp_id, file_name))
 
             for task in as_completed(tasks):
                 task.result()
