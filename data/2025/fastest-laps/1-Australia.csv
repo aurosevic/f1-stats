@@ -1,18 +1,18 @@
-Position,Driver Number,Driver,Car,Lap,Time of Day,Time,Avg Speed
-1,4,Lando NorrisNOR,McLaren Mercedes,43,16:35:25,1:22.167,16:35:25
-2,30,Liam LawsonLAW,Red Bull Racing Honda RBPT,43,16:35:49,1:22.970,16:35:49
-3,1,Max VerstappenVER,Red Bull Racing Honda RBPT,43,16:35:29,1:23.081,16:35:29
-4,81,Oscar PiastriPIA,McLaren Mercedes,43,16:35:28,1:23.242,16:35:28
-5,5,Gabriel BortoletoBOR,Kick Sauber Ferrari,43,16:35:49,1:24.192,16:35:49
-6,22,Yuki TsunodaTSU,Racing Bulls Honda RBPT,43,16:35:34,1:24.194,16:35:34
-7,44,Lewis HamiltonHAM,Ferrari,43,16:35:35,1:24.218,16:35:35
-8,23,Alexander AlbonALB,Williams Mercedes,43,16:35:35,1:24.597,16:35:35
-9,12,Andrea Kimi AntonelliANT,Mercedes,43,16:35:37,1:24.901,16:35:37
-10,10,Pierre GaslyGAS,Alpine Renault,43,16:35:37,1:25.020,16:35:37
-11,63,George RussellRUS,Mercedes,43,16:35:33,1:25.065,16:35:33
-12,27,Nico HulkenbergHUL,Kick Sauber Ferrari,43,16:35:39,1:25.243,16:35:39
-13,16,Charles LeclercLEC,Ferrari,43,16:35:34,1:25.271,16:35:34
-14,18,Lance StrollSTR,Aston Martin Aramco Mercedes,43,16:35:39,1:25.538,16:35:39
-15,31,Esteban OconOCO,Haas Ferrari,42,16:34:54,1:26.764,16:34:54
-16,87,Oliver BearmanBEA,Haas Ferrari,42,16:35:15,1:27.603,16:35:15
-17,14,Fernando AlonsoALO,Aston Martin Aramco Mercedes,32,16:14:07,1:28.819,16:14:07
+Pos,No,Driver,Car,Lap,Time of day,Time,Avg speed
+1,4,Lando NorrisNOR,McLaren Mercedes,43,16:35:25,1:22.167,231.246
+2,30,Liam LawsonLAW,Red Bull Racing Honda RBPT,43,16:35:49,1:22.970,229.008
+3,1,Max VerstappenVER,Red Bull Racing Honda RBPT,43,16:35:29,1:23.081,228.702
+4,81,Oscar PiastriPIA,McLaren Mercedes,43,16:35:28,1:23.242,228.259
+5,5,Gabriel BortoletoBOR,Kick Sauber Ferrari,43,16:35:49,1:24.192,225.684
+6,22,Yuki TsunodaTSU,Racing Bulls Honda RBPT,43,16:35:34,1:24.194,225.678
+7,44,Lewis HamiltonHAM,Ferrari,43,16:35:35,1:24.218,225.614
+8,23,Alexander AlbonALB,Williams Mercedes,43,16:35:35,1:24.597,224.603
+9,12,Andrea Kimi AntonelliANT,Mercedes,43,16:35:37,1:24.901,223.799
+10,10,Pierre GaslyGAS,Alpine Renault,43,16:35:37,1:25.020,223.486
+11,63,George RussellRUS,Mercedes,43,16:35:33,1:25.065,223.368
+12,27,Nico HulkenbergHUL,Kick Sauber Ferrari,43,16:35:39,1:25.243,222.901
+13,16,Charles LeclercLEC,Ferrari,43,16:35:34,1:25.271,222.828
+14,18,Lance StrollSTR,Aston Martin Aramco Mercedes,43,16:35:39,1:25.538,222.132
+15,31,Esteban OconOCO,Haas Ferrari,42,16:34:54,1:26.764,218.994
+16,87,Oliver BearmanBEA,Haas Ferrari,42,16:35:15,1:27.603,216.896
+17,14,Fernando AlonsoALO,Aston Martin Aramco Mercedes,32,16:14:07,1:28.819,213.927

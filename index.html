@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 Stats Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            display: flex;
+            /*justify-content: center;*/
+            align-items: center;
+            /*height: 100vh;*/
+            margin: 0;
+        }
+        .chart-container {
+            /*display: flex;*/
+            justify-content: space-around;
+            width: 100%;
+            /*max-width: 1200px;*/
+            /*overflow-x: hidden;*/
+            margin: 50px;
+        }
+        canvas {
+            width: 100% !important;
+            height: auto !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart-container">
+        <canvas id="myChart"></canvas>
+        <canvas id="myChart2"></canvas>
+        <canvas id="myChart3"></canvas>
+    </div>
+    <script src="chart.js"></script>
+</body>
+</html>

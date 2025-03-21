@@ -13,10 +13,12 @@ pip install uv
 ### Install the required modules
 
 ```zsh
-pip install -r requirements.txt
+uv pip install -r pyproject.toml
 ```
 
 ## Scrape Data from the F1 Website
+
+Scrapes Formula 1 race results and statistics from formula1.com.
 
 ```zsh
 python gather-data.py

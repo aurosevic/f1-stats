@@ -1,4 +1,4 @@
-Stop,Driver Number,Driver,Car,Lap,Time of Day,Time,Duration
+Stops,No,Driver,Car,Lap,Time of day,Time,Total
 1,4,Lando NorrisNOR,McLaren Mercedes,2,15:22:58,13.341,13.341
 1,1,Max VerstappenVER,Red Bull Racing Honda RBPT,2,15:23:00,13.416,13.416
 1,81,Oscar PiastriPIA,McLaren Mercedes,2,15:23:02,13.078,13.078
