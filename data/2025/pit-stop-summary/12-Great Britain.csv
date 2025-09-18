@@ -1,0 +1,35 @@
+STOPS,NO.,DRIVER,TEAM,LAP,TIME OF DAY,TIME,TOTAL
+1,12,Kimi AntonelliANT,Mercedes,2,15:07:48,28.721,28.721
+1,18,Lance StrollSTR,Aston Martin,6,15:16:03,29.125,29.125
+1,27,Nico HulkenbergHUL,Kick Sauber,9,15:21:40,29.736,29.736
+2,12,Kimi AntonelliANT,Mercedes,9,15:21:54,28.707,57.428
+2,18,Lance StrollSTR,Aston Martin,10,15:23:24,28.853,57.978
+1,63,George RussellRUS,Mercedes,10,15:23:30,28.647,28.647
+1,16,Charles LeclercLEC,Ferrari,10,15:23:36,29.089,29.089
+1,6,Isack HadjarHAD,Racing Bulls,10,15:23:42,28.523,28.523
+1,87,Oliver BearmanBEA,Haas,10,15:23:44,29.201,29.201
+1,81,Oscar PiastriPIA,McLaren,11,15:24:55,29.491,29.491
+1,4,Lando NorrisNOR,McLaren,11,15:25:02,30.630,30.630
+1,1,Max VerstappenVER,Red Bull Racing,11,15:25:04,28.182,28.182
+1,44,Lewis HamiltonHAM,Ferrari,11,15:25:12,28.917,28.917
+1,10,Pierre GaslyGAS,Alpine,11,15:25:14,28.912,28.912
+1,14,Fernando AlonsoALO,Aston Martin,11,15:25:15,28.707,28.707
+1,55,Carlos SainzSAI,Williams,11,15:25:16,29.554,29.554
+1,22,Yuki TsunodaTSU,Red Bull Racing,11,15:25:24,28.544,28.544
+1,23,Alexander AlbonALB,Williams,12,15:27:11,29.251,29.251
+1,31,Esteban OconOCO,Haas,18,15:41:45,29.562,29.562
+3,12,Kimi AntonelliANT,Mercedes,20,15:47:05,29.728,87.156
+2,14,Fernando AlonsoALO,Aston Martin,37,16:17:34,28.534,57.241
+2,63,George RussellRUS,Mercedes,38,16:19:16,28.205,56.852
+2,44,Lewis HamiltonHAM,Ferrari,41,16:24:05,29.127,58.044
+3,18,Lance StrollSTR,Aston Martin,41,16:24:17,28.553,86.531
+2,1,Max VerstappenVER,Red Bull Racing,41,16:24:21,29.689,57.871
+2,10,Pierre GaslyGAS,Alpine,41,16:24:23,28.469,57.381
+2,55,Carlos SainzSAI,Williams,41,16:24:32,28.655,58.209
+2,87,Oliver BearmanBEA,Haas,41,16:24:34,29.090,58.291
+2,27,Nico HulkenbergHUL,Kick Sauber,42,16:25:42,29.952,59.688
+2,16,Charles LeclercLEC,Ferrari,42,16:26:10,28.840,57.929
+2,23,Alexander AlbonALB,Williams,42,16:26:14,29.292,58.543
+2,31,Esteban OconOCO,Haas,42,16:26:16,28.646,58.208
+2,81,Oscar PiastriPIA,McLaren,43,16:26:46,40.280,69.771
+2,4,Lando NorrisNOR,McLaren,44,16:28:28,28.214,58.844

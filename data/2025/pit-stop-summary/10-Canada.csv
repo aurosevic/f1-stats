@@ -1,0 +1,34 @@
+STOPS,NO.,DRIVER,TEAM,LAP,TIME OF DAY,TIME,TOTAL
+1,1,Max VerstappenVER,Red Bull Racing,12,14:18:22,23.604,23.604
+1,63,George RussellRUS,Mercedes,13,14:19:36,23.231,23.231
+1,6,Isack HadjarHAD,Racing Bulls,13,14:20:03,24.130,24.130
+1,12,Kimi AntonelliANT,Mercedes,14,14:20:58,23.320,23.320
+1,43,Franco ColapintoCOL,Alpine,14,14:21:17,24.735,24.735
+1,44,Lewis HamiltonHAM,Ferrari,15,14:22:21,23.604,23.604
+1,14,Fernando AlonsoALO,Aston Martin,15,14:22:29,24.021,24.021
+1,81,Oscar PiastriPIA,McLaren,16,14:23:33,23.245,23.245
+1,87,Oliver BearmanBEA,Haas,18,14:26:36,23.562,23.562
+1,27,Nico HulkenbergHUL,Kick Sauber,19,14:27:44,23.476,23.476
+1,23,Alexander AlbonALB,Williams,23,14:33:09,23.898,23.898
+1,18,Lance StrollSTR,Aston Martin,24,14:34:26,23.742,23.742
+1,16,Charles LeclercLEC,Ferrari,28,14:38:55,23.360,23.360
+1,4,Lando NorrisNOR,McLaren,29,14:40:08,23.223,23.223
+2,1,Max VerstappenVER,Red Bull Racing,37,14:50:20,23.121,46.725
+2,12,Kimi AntonelliANT,Mercedes,38,14:51:36,23.416,46.736
+1,30,Liam LawsonLAW,Racing Bulls,38,14:52:35,23.280,23.280
+2,63,George RussellRUS,Mercedes,42,14:56:32,24.262,47.493
+2,81,Oscar PiastriPIA,McLaren,45,15:00:27,23.174,46.419
+2,44,Lewis HamiltonHAM,Ferrari,45,15:00:52,23.338,46.942
+2,4,Lando NorrisNOR,McLaren,47,15:03:01,23.471,46.694
+1,5,Gabriel BortoletoBOR,Kick Sauber,49,15:06:43,23.715,23.715
+2,14,Fernando AlonsoALO,Aston Martin,50,15:07:35,23.409,47.430
+2,18,Lance StrollSTR,Aston Martin,51,15:09:20,34.742,58.484
+2,16,Charles LeclercLEC,Ferrari,53,15:10:38,23.859,47.219
+1,10,Pierre GaslyGAS,Alpine,53,15:11:54,23.987,23.987
+1,22,Yuki TsunodaTSU,Red Bull Racing,56,15:15:31,25.178,25.178
+1,31,Esteban OconOCO,Haas,57,15:16:38,24.452,24.452
+1,55,Carlos SainzSAI,Williams,57,15:16:43,23.269,23.269
+3,81,Oscar PiastriPIA,McLaren,67,15:28:29,26.385,72.804
+2,87,Oliver BearmanBEA,Haas,66,15:28:48,27.985,51.547
+2,6,Isack HadjarHAD,Racing Bulls,66,15:29:08,23.693,47.823
+3,18,Lance StrollSTR,Aston Martin,66,15:29:10,23.772,82.256

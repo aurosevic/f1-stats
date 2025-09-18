@@ -59,10 +59,9 @@ def scrape_grand_prix(year: int, url: str, gp_id: str, file_name: str):
 
         grand_prix_link = f'{url}/{gp_id}/{section.value}'
 
-        try:
-            gp_table = get_table(grand_prix_link, TABLE_CLASS)
-        except ValueError:
-            continue  # In case the race weekend doesn't have the section(for example no sprint qualifying)
+        gp_table = get_table(grand_prix_link, TABLE_CLASS)
+        if gp_table.find('tbody') and 'No results available' in gp_table.find('tbody').get_text():
+            continue # In case the race weekend doesn't have the section (for example, no sprint qualifying)
 
         save_table_data(gp_table, year, section, file_name)
 
@@ -77,13 +76,13 @@ def scrape_f1_table(year=date.today().year, max_workers=10):
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             for i, row in enumerate(table.find('tbody').find_all('tr')):
                 cols = row.find_all('td')
-                grand_prix = cols[0].find('a').text.strip()
+                grand_prix = cols[0].find('a').find(string=True, recursive=False).strip()
                 race_date = cols[1].text.strip()
 
                 print(f'\n🏁 Gathering data for {grand_prix} {race_date}...')
 
                 file_name = f'{i + 1}-{grand_prix}'
-                gp_id = cols[0].find('a')['href'].split('/', 1)[1].rsplit('/', 1)[0]
+                gp_id = '/'.join(cols[0].find('a')['href'].split('races/', 1)[1].split('/')[:-1])
                 tasks.append(executor.submit(scrape_grand_prix, year, url, gp_id, file_name))
 
             for task in as_completed(tasks):

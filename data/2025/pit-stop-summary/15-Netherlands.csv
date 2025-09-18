@@ -1,0 +1,40 @@
+STOPS,NO.,DRIVER,TEAM,LAP,TIME OF DAY,TIME,TOTAL
+1,18,Lance StrollSTR,Aston Martin,8,15:13:50,17.561,17.561
+1,14,Fernando AlonsoALO,Aston Martin,18,15:26:36,17.417,17.417
+1,22,Yuki TsunodaTSU,Red Bull Racing,19,15:27:52,18.348,18.348
+1,43,Franco ColapintoCOL,Alpine,19,15:27:56,17.986,17.986
+1,27,Nico HulkenbergHUL,Kick Sauber,19,15:27:57,17.602,17.602
+1,16,Charles LeclercLEC,Ferrari,22,15:31:24,17.081,17.081
+1,5,Gabriel BortoletoBOR,Kick Sauber,22,15:31:53,17.908,17.908
+1,81,Oscar PiastriPIA,McLaren,23,15:32:24,17.375,17.375
+1,4,Lando NorrisNOR,McLaren,23,15:32:30,20.042,20.042
+1,1,Max VerstappenVER,Red Bull Racing,23,15:32:49,18.740,18.740
+1,6,Isack HadjarHAD,Racing Bulls,23,15:32:52,17.414,17.414
+1,63,George RussellRUS,Mercedes,23,15:32:56,18.832,18.832
+1,30,Liam LawsonLAW,Racing Bulls,23,15:33:08,17.549,17.549
+1,55,Carlos SainzSAI,Williams,23,15:33:09,17.670,17.670
+1,23,Alexander AlbonALB,Williams,23,15:33:16,19.692,19.692
+1,12,Kimi AntonelliANT,Mercedes,23,15:33:20,17.476,17.476
+1,10,Pierre GaslyGAS,Alpine,23,15:33:26,19.223,19.223
+2,55,Carlos SainzSAI,Williams,27,15:40:40,29.443,47.113
+2,30,Liam LawsonLAW,Racing Bulls,27,15:40:41,22.209,39.758
+2,14,Fernando AlonsoALO,Aston Martin,40,15:56:55,17.949,35.366
+2,12,Kimi AntonelliANT,Mercedes,51,16:10:23,17.365,34.841
+2,16,Charles LeclercLEC,Ferrari,52,16:11:36,17.042,34.123
+3,55,Carlos SainzSAI,Williams,51,16:11:56,30.340,77.453
+2,18,Lance StrollSTR,Aston Martin,52,16:12:10,17.598,35.159
+1,31,Esteban OconOCO,Haas,52,16:12:12,18.270,18.270
+2,81,Oscar PiastriPIA,McLaren,53,16:12:38,18.589,35.964
+2,4,Lando NorrisNOR,McLaren,53,16:12:42,22.608,42.650
+2,1,Max VerstappenVER,Red Bull Racing,53,16:12:55,18.261,37.001
+2,6,Isack HadjarHAD,Racing Bulls,53,16:12:59,18.535,35.949
+2,63,George RussellRUS,Mercedes,53,16:13:18,17.344,36.176
+2,23,Alexander AlbonALB,Williams,53,16:13:22,17.840,37.532
+3,30,Liam LawsonLAW,Racing Bulls,52,16:13:38,18.552,58.310
+1,87,Oliver BearmanBEA,Haas,53,16:13:53,18.622,18.622
+2,22,Yuki TsunodaTSU,Red Bull Racing,53,16:13:54,18.147,36.495
+2,43,Franco ColapintoCOL,Alpine,53,16:14:04,17.586,35.572
+2,27,Nico HulkenbergHUL,Kick Sauber,53,16:14:05,17.944,35.546
+2,5,Gabriel BortoletoBOR,Kick Sauber,60,16:24:57,17.491,35.399
+3,43,Franco ColapintoCOL,Alpine,65,16:31:30,18.077,53.649
+4,55,Carlos SainzSAI,Williams,65,16:31:49,18.043,95.496
