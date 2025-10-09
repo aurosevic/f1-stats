@@ -22,7 +22,7 @@ def get_table(url: str, table_class: str) -> BeautifulSoup:
 
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        table = soup.find('table', {'class': table_class})
+        table = soup.find_all('table')[0]
 
         if not table:
             raise ValueError(f'Could not find the table with class \'{table_class}\' on the page.')
