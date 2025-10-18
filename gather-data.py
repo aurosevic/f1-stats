@@ -5,6 +5,7 @@ from datetime import date
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+from bs4.element import Tag
 
 from enums import RaceSection
 
@@ -15,7 +16,7 @@ HEADERS = {
 }
 
 
-def get_table(url: str, table_class: str) -> BeautifulSoup:
+def get_table(url: str, table_class: str) -> Tag:
     try:
         response = requests.get(url, headers=HEADERS)
         response.raise_for_status()
@@ -61,7 +62,7 @@ def scrape_grand_prix(year: int, url: str, gp_id: str, file_name: str):
 
         gp_table = get_table(grand_prix_link, TABLE_CLASS)
         if gp_table.find('tbody') and 'No results available' in gp_table.find('tbody').get_text():
-            continue # In case the race weekend doesn't have the section (for example, no sprint qualifying)
+            continue  # In case the race weekend doesn't have the section (for example, no sprint qualifying)
 
         save_table_data(gp_table, year, section, file_name)
 
