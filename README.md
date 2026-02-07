@@ -13,7 +13,7 @@ pip install uv
 ### Install the required modules
 
 ```zsh
-uv pip install -r pyproject.toml
+uv sync
 ```
 
 ## Scrape Data from the F1 Website
